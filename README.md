@@ -16,7 +16,7 @@
   <a href="https://codeforces.com/profile/harshitsharma14">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>
   </a>
-  <a href="harshitsharmaclg@gmail.com">
+  <a href="mailto:harshitsharmaclg@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
