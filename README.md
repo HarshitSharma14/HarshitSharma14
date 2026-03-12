@@ -1,177 +1,137 @@
-<!-- ========================= HEADER ========================= -->
-<h1 align="center">Hi, I'm Harshit Sharma <img src="https://raw.githubusercontent.com/HarshitSharma14/HarshitSharma14/main/assets/wave.gif" width="32"/></h1>
-
-<p align="center">
-  <strong>Full‑Stack Engineer • Multi‑Tenant Systems • AI + RAG</strong><br/>
-  I build <b>production‑grade systems</b> — scalable SaaS backends, real‑time apps, and AI‑powered platforms. Not toy projects.
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshitsharma14/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
-  </a>
-  <a href="https://leetcode.com/u/Harshit1405/">
-    <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/harshitsharma14">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:harshitsharmaclg@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%E2%80%A2%20Database%20Design%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Cloud&descAlignY=55&descSize=16" />
+
+<!-- <strong>Backend • Database Design • Applied AI • Cloud Computing • Open Source</strong><br/> -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitsharma14/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshit1405/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitsharma14)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsharmaclg@gmail.com)
 
 ---
-
-<div align="center">
-
 
 ## 🧠 Technologies & Tools
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,r" />
-</p>
-
-### ⚙️ Technologies / Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,mongodb,redis,docker,git,github,tailwind" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gen%20AI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20AI-000000?style=for-the-badge" />
-</p>
-
-### 🧠 Core CS Fundamentals
-<p align="center">
-  <img src="https://img.shields.io/badge/OOPS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Architecture-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge" />
-</p>
-
-### ☁️ AWS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-
-## 🚀 What I'm Focused On
-
-<p align="center">
-  <strong>Multi‑Tenant SaaS Systems</strong> — roles, permissions, audit logs, org‑level isolation<br/>
-  <strong>Real‑Time Applications</strong> — WebSockets, Redis, low‑latency updates<br/>
-  <strong>AI‑Powered Systems</strong> — RAG pipelines, embeddings, agent workflows<br/>
-  <strong>Backend‑Heavy Engineering</strong> — schema design, performance, scale
-</p>
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,r&theme=dark" /></td>
+</tr>
+<tr>
+<td><b>⚙️ Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,electron,tailwind,mui&theme=dark" />
+<img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>🤖 AI / Agentic</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-6B21A8?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gen%20AI-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Data & Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,docker&theme=dark" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>☁️ AWS</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,dynamodb&theme=dark" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>🧩 Core CS</b></td>
+<td>
+<img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Networks-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-0F172A?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 ---
 
+## 📌 Pinned Projects
 
-## 🌟 Flagship Projects
+<table>
+<tr>
+<td width="50%" align="center">
 
-### 🔹 Multi‑Tenant DSA CRM (Internship | Sole Developer)
-<p align="center">
-  <strong>Stack:</strong> Vue.js, Vuetify 2, Node.js, MariaDB<br/><br/>
-  Built a <strong>production‑grade CRM</strong> for Direct Selling Agents<br/>
-  Fully customizable <strong>roles, hierarchy, workflows, permissions per organization</strong><br/>
-  Designed and managed <strong>65+ interlinked SQL tables</strong> for multi‑org scalability<br/>
-  Role‑based dashboards, detailed audit logs, leads & follow‑ups<br/>
-  Bulk Excel import + SSR for SEO<br/><br/>
-  <em>Closest thing I've built to a Salesforce‑level system.</em>
-</p>
+### 🏗️ Credo
+![SaaS](https://img.shields.io/badge/Multi--tenant%20SaaS-7C3AED?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-a855f7?style=for-the-badge)
 
----
+Built during my internship —>
+a full CRM platform with org-level isolation.
+| | |
+|---|---|
+| 🔹 | Configurable roles, hierarchies & flexible permissions |
+| 🔹 | Designed **65+ relational tables** for complex workflows |
+| 🔹 | Lead pipelines, follow-ups & audit logs |
+| 🔹 | Role-based dashboards per organization |
 
-### 🔹 Dekhlo (YouTube Clone)
-<p align="center">
-  <strong>Stack:</strong> React, MongoDB, Socket.IO, Cloudinary<br/><br/>
-  ~90% of core YouTube features implemented<br/>
-  Google OAuth, uploads, playlists, subscriptions, comments, likes<br/>
-  Real‑time notifications using WebSockets (<200ms latency)<br/>
-  Scalable DB design for high traffic
-</p>
+**What I learned**
+- Multi-tenant SaaS architecture  
+- Large-scale relational database design  
+- Building complex backend workflows  
+- Vue + production frontend structure
 
----
+</td>
+<td width="50%" align="center">
 
-### 🔹 LegalOS — AI Legal Assistant (RAG)
-<p align="center">
-  <strong>Stack:</strong> LangChain, LangGraph, Ollama, Pinecone / Qdrant<br/><br/>
-  RAG system over <strong>Indian Central & State Acts</strong><br/>
-  Custom PDF crawler, cleaner, chunker, embedding pipeline<br/>
-  Local SLM inference using Ollama (qwen2.5)<br/>
-  Contextual legal Q&A with vector search
-</p>
+### ⚖️ LegalOS
+![RAG](https://img.shields.io/badge/RAG%20Pipeline-0ea5e9?style=for-the-badge)
+![AI](https://img.shields.io/badge/Local%20LLM-06b6d4?style=for-the-badge)
 
----
+AI-powered legal research assistant for Indian law.
 
-### 🔹 Gupshup (Chat App)
-<p align="center">
-  <strong>Stack:</strong> MERN, Socket.IO, Redis<br/><br/>
-  Real‑time messaging with authentication<br/>
-  Scalable WebSocket architecture
-</p>
+| | |
+|---|---|
+| 🔹 | Ingests Indian Central & State Acts |
+| 🔹 | Document cleaning, chunking & embedding |
+| 🔹 | Vector search for contextual legal answers |
+| 🔹 | Local SLM inference for privacy-friendly analysis |
 
----
+**What I learned**
+- Prompt engineering for structured responses  
+- Designing and building RAG pipelines  
+- Writing cleaner code through PR reviews  
+- Working with embeddings and vector search
 
-### 🔹 Solace (Lovable‑style App Generator)
-<p align="center">
-  <strong>Stack:</strong> LangGraph, Streamlit, Gemini API<br/><br/>
-  Generates full web apps from a single prompt<br/>
-  Live preview + downloadable source code
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitSharma14&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=HarshitSharma14&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSharma14&layout=compact&theme=radical" height="150"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshitSharma14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9" height="155"/>
+<img src="https://streak-stats.demolab.com?user=HarshitSharma14&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSharma14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="155"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitSharma14&theme=tokyo-night&hide_border=true&bg_color=0d1117" height="155"/>
 
 ---
 
-## 🎯 What I Care About
-<p align="center">
-  Engineering systems that <strong>actually scale</strong><br/>
-  Clean architecture > quick hacks<br/>
-  AI that solves real problems, not demos
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
----
-
-<p align="center">
-  <em>Open to internships, collaborations, and hard problems.</em><br/>
-  <b>If it's backend‑heavy, system‑level, or AI‑driven — I'm in.</b>
-</p>
+*Curious about unique problems and how technology and AI can solve them.*
 
 </div>
