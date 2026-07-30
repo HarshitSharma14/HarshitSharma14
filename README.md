@@ -119,6 +119,75 @@ AI-powered legal research assistant for Indian law.
 </tr>
 </table>
 
+
+---
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td align="center">
+
+### 🏥 Health Insurance Claims Processor
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20LLM-22c55e?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tests](https://img.shields.io/badge/132%20Tests-4ade80?style=for-the-badge)
+
+AI pipeline that adjudicates health insurance claims using multi-agent orchestration.
+
+| | |
+|---|---|
+| 🔹 | 4-agent pipeline: Eligibility → Medical Review → Financial Analysis → Decision |
+| 🔹 | **132 passing tests** + 12/12 eval harness with full processing traces |
+| 🔹 | Gemini API + FastAPI backend + Vite frontend, deployed on Render + Vercel |
+| 🔹 | APPROVED / PARTIAL / REJECTED / MANUAL_REVIEW with confidence scores |
+
+**What I built:** Production-grade multi-agent system with automated evaluation harness
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Open Source Contributions
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚖️ LegalOS — 20+ Pull Requests
+![RAG](https://img.shields.io/badge/RAG%20Pipeline-0ea5e9?style=for-the-badge)
+![Contributor](https://img.shields.io/badge/Contributor-22c55e?style=for-the-badge)
+
+Contributed to an AI-powered legal research assistant for Indian law.
+
+| | |
+|---|---|
+| 🔹 | 20+ merged PRs across RAG pipeline, chunking, and retrieval |
+| 🔹 | Improved benchmark from **33.93% → 43.37%** accuracy |
+| 🔹 | Vector search, local SLM inference, document preprocessing |
+| 🔹 | Real collaborative open-source engineering |
+
+</td>
+<td width="50%" align="center">
+
+### 🔬 GSoC Research Contributions
+![Open Source](https://img.shields.io/badge/Open%20Source-f97316?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-8b5cf6?style=for-the-badge)
+
+Contributed to OREL group's Google Summer of Code projects.
+
+| | |
+|---|---|
+| 🔹 | Scientific open-source tooling contributions |
+| 🔹 | PRs to OREL-group/GSoC |
+| 🔹 | Research-adjacent engineering work |
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
